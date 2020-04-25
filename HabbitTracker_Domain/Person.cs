@@ -13,9 +13,6 @@ namespace HabbitTracker_Domain
         public string Password { get; set; }
 
 
-
-        
-
-
     }
+
 }

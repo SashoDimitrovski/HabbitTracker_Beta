@@ -15,14 +15,32 @@ namespace HabbitTracker_DB_Services
                 FirstName = "Sasho",
                 LastName = "Dimitrovski",
                 Email = "sasodimitrovski1982@yahoo.com",
-                DateOfBirth =
+                DateOfBirth = new DateTime(1982,3,29),
                 UserName = "SashoDim",
+                Password = "trackthis"
 
+                },
+                new Person
+                {
+                FirstName = "Steve",
+                LastName = "Harris",
+                Email = "steveharris@imaiden.com",
+                DateOfBirth = new DateTime(1956,3,12),
+                UserName = "SashoDim",
+                Password = "trackthis"
                 }
-        };
+
+             };
+
+
             
         }
 
-        public string UserName { get; private set; }
+
+
+
+
+        
     }
+    
 }
