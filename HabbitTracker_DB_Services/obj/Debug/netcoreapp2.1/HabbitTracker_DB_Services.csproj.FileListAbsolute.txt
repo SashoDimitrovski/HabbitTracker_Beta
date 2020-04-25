@@ -1,0 +1,8 @@
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\bin\Debug\netcoreapp2.1\HabbitTracker_DB_Services.deps.json
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\bin\Debug\netcoreapp2.1\HabbitTracker_DB_Services.dll
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\bin\Debug\netcoreapp2.1\HabbitTracker_DB_Services.pdb
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\obj\Debug\netcoreapp2.1\HabbitTracker_DB_Services.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\obj\Debug\netcoreapp2.1\HabbitTracker_DB_Services.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\obj\Debug\netcoreapp2.1\HabbitTracker_DB_Services.AssemblyInfo.cs
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\obj\Debug\netcoreapp2.1\HabbitTracker_DB_Services.dll
+D:\Skolo\C#\Basic\HabbitTracker_Beta\HabbitTracker_Beta\HabbitTracker_DB_Services\obj\Debug\netcoreapp2.1\HabbitTracker_DB_Services.pdb
